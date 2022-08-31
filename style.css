@@ -1,0 +1,32 @@
+*{
+box-sizing: border-box;
+margin: 0;
+padding: 0;
+font-size: 62.5%;
+}
+
+
+.outer{
+    border: 3px dotted #f5bcca;
+    border-radius: 5px;
+    width: 100%;
+    padding: 10px;
+    margin-bottom: 40px;
+    overflow: auto;
+}
+
+.float{
+    padding: 10px;
+    border: 5 solid #f5bcca;
+    border-radius: 5px;
+    background-color: red;
+    color: white;
+    float: left;
+    max-width: 200px;
+    margin: 0 20px 0 0;
+}
+
+.clase3 .img-grid{
+    width: 300px;
+}
+
